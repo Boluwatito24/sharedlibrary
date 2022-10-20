@@ -19,4 +19,3 @@ def runSelenium(path)
 {
   sh "java -jar /home/ubuntu/.jenkins/workspace/${path}/testing.jar"
 }
-
